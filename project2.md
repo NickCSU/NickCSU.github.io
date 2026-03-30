@@ -27,7 +27,7 @@ If the programming language does not require compilation, the update the heading
 
 ## UI Design
 
-The program will first ask for your name and date, then it will output the menu in which you can add, remove, change quantity, output descriptions, and output shopping cart (Fig 1). After completing your shopping cart, you can then ask for the total price, and then hit quit to stop the program(Fig 2).
+The program will first ask for your name and date, then it will output the menu in which you can add, remove, change quantity, output descriptions, and output shopping cart. When adding an item, the program will ask for the name of the item, a description, the amount, and the price. (Fig 1) After completing your shopping cart, you can then ask for the total price, and then hit quit to stop the program (Fig 2).
 
 
 ![ShoppingCart1](images/ShoppingCart1.png)  
