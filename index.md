@@ -7,14 +7,14 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:nevanhouten@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Battleship | CSCI 325](project1)
+### [Battleship | CSCI 225](https://github.com/NickCSU/Battleship)
 
 ![Battleship](images/battleship1.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Shopping Cart | CSCI 315](project1)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Shopping Cart](images/dummy_thumbnail.jpg)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
