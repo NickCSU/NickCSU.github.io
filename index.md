@@ -21,20 +21,15 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Paper](/pdf/sample_presentation.pdf)
+### [Ethics Paper](/pdf/Ethics Paper CSCI-301.docx)
 
--   **Class:**  
--   **Grade:**
+-   **Class:**  Survey of Scripting Languages
+-   **Grade:** 95
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Ethics Paper](/pdf/ethics paper CSCI-325.docx)
 
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
+-   **Class:** Object-Oriented Programming
+-   **Grade:** (not graded yet)
 
 ---
 
@@ -43,8 +38,8 @@ Presentations
 
 ### [Presentation 1 Title](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Principles of Cybersecurity
+- **Grade:** 85
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
