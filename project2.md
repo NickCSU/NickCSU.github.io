@@ -6,7 +6,7 @@ Shopping Cart
 -   **Class:** Object-Oriented Programming
 -   **Grade:** 100
 -   **Language(s):** Java
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Shopping Cart](https://github.com/NickCSU/Shopping-Cart)  
     (Please [email me](mailto:nevanhouten@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
