@@ -12,19 +12,9 @@ Programming Projects
 ![Battleship](images/battleship1.png)
 
 ---
-### [Shopping Cart | CSCI 315](project1)
+### [Shopping Cart | CSCI 325](https://github.com/NickCSU/Shopping-Cart)
 
-![Shopping Cart](images/dummy_thumbnail.jpg)
-
----
-### [Project 3 Title | CSCI 325](project1)
-
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 4 Title | CSCI 332](project1)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Shopping Cart](images/ShoppingCart1.png)
 
 ---
 
