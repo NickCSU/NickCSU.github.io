@@ -21,12 +21,12 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Paper](/pdf/Ethics Paper CSCI-301.docx)
+### [Ethics Paper](pdf/Ethics Paper CSCI-301.docx)
 
 -   **Class:**  Survey of Scripting Languages
 -   **Grade:** 95
 
-### [Ethics Paper](/pdf/ethics paper CSCI-325.docx)
+### [Ethics Paper](pdf/ethics paper CSCI-325.docx)
 
 -   **Class:** Object-Oriented Programming
 -   **Grade:** (not graded yet)
