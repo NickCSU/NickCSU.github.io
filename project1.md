@@ -7,7 +7,7 @@ Battleship
 -   **Grade:** 72
 -   **Language(s):** C++
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:nevanhouten@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -38,10 +38,6 @@ Fig 1. Selecting board
 ![screenshot](images/battleship2.png)  
 Fig 2. Example output during the game.
 
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
