@@ -30,14 +30,11 @@ If the programming language does not require compilation, the update the heading
 The program will first ask for your name and date, then it will output the menu in which you can add, remove, change quantity, output descriptions, and output shopping cart (Fig 1). After completing your shopping cart, you can then ask for the total price, and then hit quit to stop the program(Fig 2).
 
 
-![ShoppingCart1](images/ShoppingCart1.jpg)  
-Fig 1. The launch screen
+![ShoppingCart1](images/ShoppingCart1.png)  
+Fig 1. Starting the program
 
-![ShoppingCart2](images/ShoppingCart2.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![ShoppingCart2](images/ShoppingCart2.png)  
+Fig 2. Shopping cart total
 
 ## 3. Additional Considerations
 
