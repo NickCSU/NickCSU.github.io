@@ -21,7 +21,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethics Paper](/pdf/sample_presentation.pdf)
 
 -   **Class:**  
 -   **Grade:**
