@@ -21,12 +21,12 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics Paper](pdf/EthicsPaper_301.docx)
+### [Ethics Paper](EthicsPaper_301.docx)
 
 -   **Class:**  Survey of Scripting Languages
 -   **Grade:** 95
 
-### [Ethics Paper](pdf/EthicsPaper_325.docx)
+### [Ethics Paper](EthicsPaper_325.docx)
 
 -   **Class:** Object-Oriented Programming
 -   **Grade:** (not graded yet)
@@ -36,7 +36,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [The Story of Kevin Mitnick](/pdf/Presentation1_405.pptx)
+### [The Story of Kevin Mitnick](Presentation1_405.pptx)
 
 - **Class:** Principles of Cybersecurity
 - **Grade:** 85
