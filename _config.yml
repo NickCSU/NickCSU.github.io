@@ -7,7 +7,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Bachelor of Technology in Cybersecurity (class of 2026)
   <br /><br />
-  <a "Nicholas_VanHouten_Resume_2.pdf">View My Resume</a>
+  <a href="Nicholas_VanHouten_Resume_2.pdf">View My Resume</a>
   <br /><br />
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
 repository: "NickCSU/NickCSU.github.io"
