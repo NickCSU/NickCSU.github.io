@@ -17,13 +17,12 @@ This program works as a digital shopping cart, with the abilty to add and remove
 
 How to compile (if applicable) and run the project.
 
-```Windows PowerShell
+```
+Windows PowerShell:
 open a terminal and run "javac *.java"
 then run "jar cfe ShoppingCart.jar ShoppingCartManager *.class"
 then you can run the program with "java -jar ShoppingCart.jar"
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
@@ -38,8 +37,6 @@ Fig 2. Shopping cart total
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This is a useful tool to predict how much you will spend at the grocery store.
 
 [Back to Portfolio](./)
