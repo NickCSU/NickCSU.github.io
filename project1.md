@@ -32,14 +32,12 @@ Once you run the program, a random board is presented and you must select y/n to
 
 
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/battleship1.png)  
 Fig 1. Selecting board
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/battleship2.png)  
+Fig 2. Example output during the game.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
