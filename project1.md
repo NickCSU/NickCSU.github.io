@@ -17,13 +17,14 @@ This program allows the user to play the game of battleship with the computer.
 
 How to compile (if applicable) and run the project.
 
-
+```
 Open command prompt or a terminal.
 cd downloads
 compile program "g++ Battleship.cpp -o battleship"
 run the program
 Windows: "battleship"
 Linux/Ubuntu: "./battleship"
+```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
