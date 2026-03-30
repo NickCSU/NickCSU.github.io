@@ -40,7 +40,4 @@ Fig 1. Selecting board
 ![screenshot](images/battleship2.png)  
 Fig 2. Example output during the game.
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 [Back to Portfolio](./)
