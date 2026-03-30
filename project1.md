@@ -6,16 +6,17 @@ Battleship
 -   **Class:** Procedural Programming
 -   **Grade:** 72
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Battleship](https://github.com/NickCSU/Battleship)  
     (Please [email me](mailto:nevanhouten@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This was the final project for my Procedural Programming class. This program allows the user to play the game of battleship with the computer.
+This program allows the user to play the game of battleship with the computer.
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
+
 
 Open command prompt or a terminal.
 cd downloads
